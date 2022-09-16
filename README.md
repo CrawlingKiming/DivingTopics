@@ -1,5 +1,5 @@
 
-# A new business proposal : Combining Topic LDA model and Card Transaction Data
+# Combining Topic LDA model and Card Transaction Data
 
 I propose a new business model that tracks floating topics of SNS for marketing. HIgh correlation is observed between specific topic & products. 
 
