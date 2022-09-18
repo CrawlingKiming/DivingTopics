@@ -1,6 +1,8 @@
 
 # Combining Topic LDA model and Card Transaction Data
 
+![LDA_topicmodel](./LDA_topicmodel.png)
+
 I propose a new business model that tracks floating topics of SNS for marketing. HIgh correlation is observed between specific topic & products. 
 
 ### Raw Data :
