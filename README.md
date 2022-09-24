@@ -3,7 +3,9 @@
 
 ![LDA_topicmodel](./LDA_topicmodel.PNG)
 
-I propose a new business model that tracks floating topics of SNS for marketing. HIgh correlation is observed between specific topic & products. 
+I propose a new business model that tracks floating topics of SNS for marketing; I 1) Identify high correlation between specific topic & products 2) Track topics and propose marketing strategy. 
+
+Selected as one of astonishing projects at 2019 Big Contest & gave oral presentation (Dong Kyu Cho).
 
 ### Raw Data :
 
